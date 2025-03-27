@@ -14,6 +14,7 @@ Version control maintains project integrity by:
 •	Allowing parallel development using branches.
 •	Supporting team collaboration through pull requests and code reviews.
 
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Key Steps:
 1.	Log in to GitHub and click on "New Repository".
